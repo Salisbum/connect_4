@@ -1,6 +1,7 @@
 source "https://rubygems.org/"
 
-gem "pry"
-gem "rspec"
+gem 'pry'
+gem 'rspec'
 gem 'grid_struct'
 gem 'simplecov', :require => false, :group => :test
+gem 'require_all'
